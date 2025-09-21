@@ -1,2 +1,2 @@
-# Instrumentaci-n-IND
+# Instrumentacion IND
 Grupo Colaborativo
